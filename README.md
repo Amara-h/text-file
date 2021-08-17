@@ -6,7 +6,7 @@ Monthly CSV files (July 2019- june 2020) were collected from [Citi Bike Data](ht
 
 ## Visualizations
 https://public.tableau.com/app/profile/amara.hamadache/viz/Tableauhomework_16291644403770/Story1?publish=yes
-
+https://public.tableau.com/app/profile/amara.hamadache
 ## Analysis
 
 ### 1. Number of Records
